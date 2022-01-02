@@ -17,6 +17,7 @@ Send an email to emulilo17@gmail.com with clear and concise description of what 
 Copy the text below and replace it with your report information.
 
 **To Reproduce**
+
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
