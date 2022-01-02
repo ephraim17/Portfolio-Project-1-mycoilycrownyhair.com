@@ -9,4 +9,4 @@
 
 ## Reporting a Vulnerability
 
-Send an email to emulilo17 with information about the vulnerability and proof.
+Send an email to emulilo17@gmail.com with information about the vulnerability and proof.
