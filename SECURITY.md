@@ -9,17 +9,12 @@
 
 ## Reporting a Vulnerability
 
----
-name: Vulnerability report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+Send an email to emulilo17@gmail.com with clear and concise description of what the Vulnerability is.
 
----
 
-**Describe the Vulnerability**
-A clear and concise description of what the Vulnerability is.
+## Vulnerability Report Template
+
+Copy the text below and replace it with your report information.
 
 **To Reproduce**
 Steps to reproduce the behavior:
